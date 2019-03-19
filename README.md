@@ -6,6 +6,10 @@ This app compares your answers with other users and gives you the closest matchi
 
 The app uses a Node.js and Express server on the back end and the Bootstrap framework on the front end.
 
+## Heroku demo
+
+Friend Finder is deployed to Heroku @ https://friendfindernelg.herokuapp.com/
+
 
 ## Technologies Used:
 
